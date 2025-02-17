@@ -1,1 +1,1 @@
-# Solving-Helmholtz-problems-with-finite-elements-on-a-quantum-annealer
+# Solving Helmholtz problems with finite elements on a quantum annealer
