@@ -15,12 +15,12 @@ In this repository, users will find the code able to reproduce the results of [r
 In this section, we briefly explain the main principles behind the method used in [remi2025].
 
 The goal is to solve the generalized eigenvalue problem:
-$$
-Hx = \lambda Mx,
-$$
+
+$$Kx = \lambda Mx$$,
+
 where:
-- **H** represents the stiffness matrix obtained via a finite element discretization,
-- **M** represents the mass matrix,
+- $K$ represents the stiffness matrix obtained via a finite element discretization,
+- $M$ represents the mass matrix,
 - $\lambda$ denotes the eigenvalues,
 - $x$ denotes the eigenvectors.
 
